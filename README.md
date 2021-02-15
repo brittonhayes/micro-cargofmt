@@ -23,3 +23,9 @@ refresh Rust files on save.
 
 You can also call `cargofmt` by entering `ctrl+e` 
 to open the plugin menu and running `cargofmt`.
+
+---
+
+## References
+
+[Micro Text Editor](https://micro-editor.github.io/)
