@@ -1,13 +1,18 @@
-# CARGOFMT
+# Cargo fmt 🦀
 
-## Description:
+> The `cargofmt` plugin uses Rust's `cargo fmt` 
+> command to format rust files.
 
-The `cargofmt` plugin uses Rust's `cargo fmt` 
-command to format rust files.
+## Installation
 
----
+```shell
+# Clone into your micro plugins folder
+git clone https://github.com/brittonhayes/micro-cargofmt.git ~/.config/micro/plug/cargofmt
 
-## MODES
+# All done! 🎉
+```
+
+## Modes
 
 ### Save
 
