@@ -9,7 +9,9 @@ jobs:
     steps:
       - name: checkout
         uses: actions/checkout@v2
-      - name: wow-lint
-        uses: davidcraig/action-wow-lint@latest
+      - name: Lint
+        uses: nebularg/actions-luacheck@v1
         with:
-            path-to-files: 'cargofmt.lua'
+          path: '.'
+          args: '-o 011'
+          annotate: 'error'
