@@ -1,0 +1,15 @@
+[{
+  "Name": "cargofmt",
+  "Description": "Run cargo fmt on your rust projects",
+  "Website": "https://github.com/brittonhayes/micro-cargofmt",
+  "Tags": ["cargo", "formatting"],
+  "Versions": [
+    {
+      "Version": "1.0.0",
+      "Url": "https://github.com/brittonhayes/micro-cargofmt/archive/v1.0.0.zip",
+      "Require": {
+        "micro": ">=1.0.3"
+      }
+    }
+  ]
+}]
